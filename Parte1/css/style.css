@@ -1,0 +1,42 @@
+ body{
+    background-color:darkgoldenrod;
+ }
+
+ header img{
+    width: 20%;
+    border-style: double;
+    border-width: 5px;
+ }
+ header .img{
+    text-align: center;
+ }
+ header h1{
+    text-align: center;
+ }
+ header p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+    
+ }
+ main h3{
+    text-align: center;
+ }
+ .list span{
+    font-weight: bold;
+ }
+ .footer{
+    margin-top: 50px;
+ }
+ .footer a{
+    color: red;
+ }
+ .list{
+    display: flex;
+    flex-direction: column-reverse;
+ }
+ .footer{
+    display: flex;
+    justify-content: flex-end;
+ }
+ 
